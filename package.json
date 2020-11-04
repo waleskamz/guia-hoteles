@@ -1,0 +1,19 @@
+{
+  "name": "guia-hoteles",
+  "version": "1.0.0",
+  "description": "Aplicación de ejemplo en el curso de Bootstrap.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waleskamz/guia-hoteles.git"
+  },
+  "author": "Waleska Marin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waleskamz/guia-hoteles/issues"
+  },
+  "homepage": "https://github.com/waleskamz/guia-hoteles#readme"
+}
