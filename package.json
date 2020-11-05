@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/waleskamz/guia-hoteles/issues"
   },
-  "homepage": "https://github.com/waleskamz/guia-hoteles#readme"
+  "homepage": "https://github.com/waleskamz/guia-hoteles#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
