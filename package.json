@@ -4,6 +4,7 @@
   "description": "Aplicación de ejemplo en el curso de Bootstrap.",
   "main": "index.html",
   "scripts": {
+    "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
